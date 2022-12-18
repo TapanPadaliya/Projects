@@ -113,9 +113,9 @@
 [CSS-url]: https://www.css.org/
 [CSS.org]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 
-[JS.shield]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=white
+[JS.shield]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=yellow
 [JS-url]: https://javascript.info/
-[JS.org]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=white  
+[JS.org]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=yellow  
 
 [DJ.shield]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=blue
 [DJ-url]: https://www.djangoproject.com/
