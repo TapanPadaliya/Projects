@@ -105,13 +105,13 @@
 [EXP-url]: https://expressjs.com/
 [EXP.org]: https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo==E&logoColor=black
 
-[HTML.shield]: https://img.shields.io/badge/HTML-5-20232A?style=for-the-badge&logo=HTML5
+[HTML.shield]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=HTML5
 [HTML-url]: https://www.html.org/
-[HTML.org]: https://img.shields.io/badge/HTML-5-20232A?style=for-the-badge&logo=HTML5
+[HTML.org]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=HTML5
 
-[CSS.shield]: https://img.shields.io/badge/css-3-20232A?style=for-the-badge&logo=css&logoColor=#264de4
+[CSS.shield]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 [CSS-url]: https://www.css.org/
-[CSS.org]: https://img.shields.io/badge/css-3-20232A?style=for-the-badge&logo=css&logoColor=#264de4
+[CSS.org]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 
 [JS.shield]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=white
 [JS-url]: https://javascript.info/
