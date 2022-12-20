@@ -93,9 +93,9 @@
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 
-[DN.shield]: https://img.shields.io/badge/ASP.Net-20232A?style=for-the-badge&logo=wave&logoColor=Blue
+[DN.shield]: https://img.shields.io/badge/ASP.Net-20232A?style=for-the-badge&logo=css&logoColor=Blue
 [DN-url]: https://dotnet.microsoft.com/en-us/apps/aspnet
-[DN.org]: https://img.shields.io/badge/ASP.Net-20232A?style=for-the-badge&logo=wave&logoColor=Blue
+[DN.org]: https://img.shields.io/badge/ASP.Net-20232A?style=for-the-badge&logo=css&logoColor=Blue
 
 [MONGO.shield]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=green
 [MONGO-url]: https://www.mongodb.com/
