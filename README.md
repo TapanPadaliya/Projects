@@ -39,10 +39,10 @@
 
 <h4 align="left">Technologies Used : </h4>
 
-[![React][MONGO.org]][MONGO-url]
-[![React][EXP.org]][EXP-url]
-[![React][React.js]][React-url]
-[![React][NODE.org]][NODE-url]
+[![React][DN.org]][ND-url]
+[![React][HTML.org]][HTML-url]
+[![React][CSS.org]][CSS-url]
+[![React][JS.org]][JS-url]
 
  <h4 align="left">About : This Web Application is Used to manage E commerce Records and Manage Business Commerce Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web/blob/main/MG%20Presentation.pdf">🔗 View</a></h4>
@@ -88,10 +88,14 @@
 * [![JQuery][JQuery.com]][JQuery-url]
 -->
 
-
+-.NET%206.0-blueviolet
 [Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
+
+[DN.shield]: https://img.shields.io/badge/ASP.Net-20232A?style=for-the-badge&logo=wave&logoColor=Blue
+[DN-url]: https://dotnet.microsoft.com/en-us/apps/aspnet
+[DN.org]: https://img.shields.io/badge/ASP.Net-20232A?style=for-the-badge&logo=wave&logoColor=Blue
 
 [MONGO.shield]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=green
 [MONGO-url]: https://www.mongodb.com/
