@@ -88,7 +88,6 @@
 * [![JQuery][JQuery.com]][JQuery-url]
 -->
 
--.NET%206.0-blueviolet
 [Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
