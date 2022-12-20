@@ -39,7 +39,7 @@
 
 <h4 align="left">Technologies Used : </h4>
 
-[![React][DN.org]][ND-url]
+[![React][DN.org]][DN-url]
 [![React][HTML.org]][HTML-url]
 [![React][CSS.org]][CSS-url]
 [![React][JS.org]][JS-url]
